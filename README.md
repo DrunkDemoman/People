@@ -1,4 +1,4 @@
-#Table of Contents
+# Table of Contents
 - [Synchronous Database](#synchronous-database)
   * [Base Look](#base-look)
   * [Add Person](#add-person)
